@@ -1,3 +1,7 @@
+#ifndef LOCAL
+#define NDEBUG
+#endif
+
 #include <algorithm>
 #include <iostream>
 #include <vector>
